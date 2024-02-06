@@ -5,7 +5,7 @@ function newHit(){
     document.querySelector("#hitVal").textContent = hitrn
     console.log("num")
 }
-
+ 
 
 function makeBubble(){
     let clutter = "";
